@@ -2,7 +2,7 @@
 
 ## About CSE102
 
-<b>[CSE102: *Data Structures & Algorithms*](http://techtree.iiitd.edu.in/viewDescription/filename?=CSE102)</b> is a 1xx-level course offered to all undergrads at IIIT-Delhi. The course centers around exposing students to basics of data structures and algorithms, and how they are used in the real world. It aims to enable students to:
+**[CSE102: *Data Structures & Algorithms*](http://techtree.iiitd.edu.in/viewDescription/filename?=CSE102)** is a 1xx-level course offered to all undergrads at IIIT-Delhi. The course centers around exposing students to basics of data structures and algorithms, and how they are used in the real world. It aims to enable students to:
 
 - understand and apply [Recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science)) to problems
 - to estimate the running time of algorithms using [Asymptotic Analysis](https://en.wikipedia.org/wiki/Asymptotic_analysis)
